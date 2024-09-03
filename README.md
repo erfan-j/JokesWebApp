@@ -1,5 +1,7 @@
-this is tiny project i have created using ASP.NET.
-in this app you can Create,Read,Update or Delete bunch of silly jokes.
+# Jokes Web App
+
+A tiny project i have created using ASP.NET.
+In this app you can Create,Read,Update or Delete bunch of silly jokes.
 
 What i have learned implementing this project:
 
